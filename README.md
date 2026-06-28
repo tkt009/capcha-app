@@ -48,3 +48,13 @@ LLM request payload: {
 ## Demo
 
 *Demo video/screenshot in file https://github.com/tkt009/capcha-app/blob/release1/CapchaAppDemo_CopilotGenerated.mp4.zip*
+
+**Screenshots:**
+Page upon loading and refresh
+<img width="993" height="637" alt="image" src="https://github.com/user-attachments/assets/4fd83bf4-b9d3-466a-a8b4-e639e5b59ce7" />
+
+Upon deciphering
+<img width="749" height="617" alt="image" src="https://github.com/user-attachments/assets/b8f83d27-2197-4a37-ac1e-ebd86ebddfbb" />
+
+
+
